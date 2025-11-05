@@ -1,5 +1,6 @@
-🧩 Introduction
-The Pärlikee Company Web App is an all-in-one platform designed to streamline project management, task tracking, and communication between clients, employees, and administrators.
+# Introduction
+
+## The Construction Company Web App is an all-in-one platform designed to streamline project management, task tracking, and communication between clients, employees, and administrators.
 
 The goal of the app is to:
 
@@ -12,6 +13,7 @@ The goal of the app is to:
 The app combines the reliability of a traditional website with the functionality of a modern web app — offering dashboards, file management, messaging, and progress tracking accessible from any device.
 
 
-🧭 Purpose of the Project
+# Purpose of the Project
+
 The Web App is being developed to support and modernize the daily operations of my father’s construction company.
 Currently, much of the company’s work management — such as assigning tasks, tracking project progress, sharing documents, and communicating with clients — is handled manually through phone calls, paper documents, or separate apps.
