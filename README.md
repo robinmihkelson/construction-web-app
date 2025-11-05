@@ -19,7 +19,7 @@ The Web App is being developed to support and modernize the daily operations of 
 Currently, much of the company’s work management — such as assigning tasks, tracking project progress, sharing documents, and communicating with clients — is handled manually through phone calls, paper documents, or separate apps.
 
 # Main Goals
- Improve efficiency:
+- Improve efficiency:
 Automate repetitive tasks like assigning work, tracking progress, and sharing updates, saving time for both management and workers.
 
 - Enhance communication:
